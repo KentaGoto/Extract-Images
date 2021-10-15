@@ -11,7 +11,7 @@ Extract image files from doc(x), ppt(x), and xls(x).
 - Word, PowerPoint, Excel
 
 ## License
-MIt
+MIT
 
 ## Author
 Kenta Goto
