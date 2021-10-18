@@ -7,7 +7,7 @@ Extract image files from doc(x), ppt(x), and xls(x).
 - Windows
 - 7zip
 - Python3
-- **bottle**
+- **Bottle** (WSGI micro web-framework for Python)
 - Word, PowerPoint, Excel
 
 ## License
