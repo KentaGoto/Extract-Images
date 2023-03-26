@@ -41,6 +41,7 @@ To use `Extract-Images-Web-App`, navigate to the directory containing the script
 run.bat
 ```
 
+The web application will start, and you can access the user interface by opening your web browser and navigating to `http://localhost:8080`.
 
 ## Requires
 - Windows
